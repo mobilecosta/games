@@ -7,3 +7,7 @@ https://drive.google.com/file/d/1BCOdTgMoILgFBpDyvhWd2q9d7jcQx8r8/view?usp=shari
 
 ## Batocera
 https://batocera.org/compatibility.php
+
+Roms
+https://wowroms.com/pt/all-roms/list/arcade
+
