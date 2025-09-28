@@ -21,3 +21,6 @@ https://developer.microsoft.com/pt-br/microsoft-store
 
 ## Arquivos
 https://archive.org/
+
+## Controle
+https://www.youtube.com/watch?v=UJy-l8Um73w
