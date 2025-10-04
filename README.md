@@ -8,6 +8,8 @@ https://drive.google.com/file/d/1BCOdTgMoILgFBpDyvhWd2q9d7jcQx8r8/view?usp=shari
 ## Batocera
 https://batocera.org/compatibility.php
 
+https://plus.diolinux.com.br/t/batocera-linux-um-linux-para-games-retro-e-multimidia/37522/11
+
 ## Batocera DownLoads
 https://www.youtube.com/watch?v=VcMAiJcnU2k
 
