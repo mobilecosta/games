@@ -15,6 +15,17 @@ https://www.youtube.com/watch?v=VcMAiJcnU2k
 
 https://www.youtube.com/watch?v=7BSAZW3Zmps
 
+## Batocera Games
+https://archive.org/download/mamecabinets202fullset
+
+https://archive.org/download/mame-roms-0.279-merged
+
+https://archive.org/download/ps3-pkg-games
+
+https://archive.org/download/ps3_20230630
+
+https://archive.org/download/ps3_logo
+
 ## Roms
 https://wowroms.com/pt/all-roms/list/arcade
 
